@@ -1,4 +1,4 @@
-Ini adalah project sederhana website buku tamu yang saya buat menggunakan PHP dan MySQL.  
+Ini adalah project sederhana website log dan register yang saya buat menggunakan PHP dan MySQL.  
 Cocok untuk latihan dasar koneksi database, login, dan register.
 
 ---
@@ -7,7 +7,7 @@ Cocok untuk latihan dasar koneksi database, login, dan register.
 
 - Register akun
 - Login dan dashboard
-- Simpan data tamu ke database
+- Simpan data pengunjung ke database
 - Tampilan css yang menarik dan sudah responsive
 
 ---
