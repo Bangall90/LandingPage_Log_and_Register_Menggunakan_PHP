@@ -10,6 +10,7 @@ Cocok untuk latihan dasar koneksi database, login, dan register.
 - Register akun
 - Login dan dashboard
 - Simpan data pengunjung ke database
+- Forgot password
 - Tampilan css yang menarik dan sudah responsive
 
 ---
