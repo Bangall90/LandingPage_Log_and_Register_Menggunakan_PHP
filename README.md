@@ -1,6 +1,6 @@
 # Landing Page Log & Register Menggunakan PHP
 
-Ini adalah project sederhana website buku tamu yang saya buat menggunakan PHP dan MySQL.  
+Ini adalah project sederhana website log dan register yang saya buat menggunakan PHP dan MySQL.  
 Cocok untuk latihan dasar koneksi database, login, dan register.
 
 ---
