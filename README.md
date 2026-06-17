@@ -9,7 +9,7 @@ Cocok untuk latihan dasar koneksi database, login, dan register.
 
 - Register akun
 - Login dan dashboard
-- Simpan data tamu ke database
+- Simpan data pengunjung ke database
 - Tampilan css yang menarik dan sudah responsive
 
 ---
